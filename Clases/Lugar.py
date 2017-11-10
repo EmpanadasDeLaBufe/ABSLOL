@@ -3,5 +3,5 @@ class Lugar(object):
 
     Codigo = None
 
-    Coordenadas=[None, None]
+    Coordenadas=[]
 
